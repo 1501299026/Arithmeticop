@@ -8,3 +8,4 @@ compute1=$(( $a + $b * $c ))
 
 echo " compute1:$compute1 "
 echo " compute2:$compute2 "
+echo " compute3:$compute3 "
